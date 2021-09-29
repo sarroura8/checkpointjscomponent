@@ -1,0 +1,23 @@
+.nameofprofile{
+font-family: 'Times New Roman', Times, serif;
+font-size: medium;
+color: salmon;
+justify-content: center;
+display: flex;
+}
+
+
+
+.avatar{
+height: 200px;
+width: 150px;
+border-width: 1px;
+}
+
+
+.adress{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size: small;
+color: skyblue;
+justify-content: center;
+}
